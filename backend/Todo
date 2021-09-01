@@ -1,0 +1,4 @@
+- Connect to Github
+- Connect Book Service Layer to Book DAO.
+- Add SQL queries to DAO.
+- Implement Try Catch and async to service layer communicating with DAO.
